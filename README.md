@@ -17,10 +17,10 @@ Then we made
 as part of a Hello World tutorial. 
 
 ## Here is some code Mike told us about earlier:
-'''
+```
 10 write 'poo'
 20 goto 10
-'''
+```
 # The end
 That's all there is to say about Mike's amazing GitHub patchwork event in Edinburgh. Woohoo! As Mike always says, 
 > Make a pull request
