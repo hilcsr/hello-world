@@ -24,6 +24,8 @@ as part of a Hello World tutorial.
 # The end
 That's all there is to say about Mike's amazing GitHub patchwork event in Edinburgh. Woohoo! As Mike always says, 
 > Make a pull request
+# After the end
+ We forked repositories and made pull requests and then it maybe was the end from @annaqui
 
 :camel: :+1:
 
