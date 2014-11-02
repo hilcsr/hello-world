@@ -29,3 +29,6 @@ That's all there is to say about Mike's amazing GitHub patchwork event in Edinbu
 
 :camel: :+1:
 
+## Postscript: cake
+
+There was also cake.  Very good cake!
